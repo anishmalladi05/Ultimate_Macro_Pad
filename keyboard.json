@@ -1,0 +1,63 @@
+{
+    "manufacturer": "Anish",
+    "keyboard_name": "macropad_xiao",
+    "maintainer": "anish",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "1.0.0"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0,
+                    "label": "Key 1"
+                },
+                {
+                    "matrix": [
+                        0,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 0,
+                    "label": "Key 2"
+                },
+                {
+                    "matrix": [
+                        0,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 0,
+                    "label": "Key 3"
+                },
+                {
+                    "matrix": [
+                        0,
+                        3
+                    ],
+                    "x": 3,
+                    "y": 0,
+                    "label": "Key 4"
+                },
+                {
+                    "matrix": [
+                        0,
+                        4
+                    ],
+                    "x": 1.5,
+                    "y": 1,
+                    "label": "Enc Push"
+                }
+            ]
+        }
+    }
+}
