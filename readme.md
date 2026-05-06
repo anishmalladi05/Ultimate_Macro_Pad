@@ -28,3 +28,5 @@ Enter the bootloader in 3 ways:
 
 Picture of product (render):
 <img width="222" height="162" alt="Screenshot 2026-05-06 at 1 51 36 PM" src="https://github.com/user-attachments/assets/5cecb20d-e52e-438e-a03a-34fd9b796080" />
+BOM:
+<img width="859" height="190" alt="Screenshot 2026-05-06 at 2 09 28 PM" src="https://github.com/user-attachments/assets/955e875e-4bd3-404c-a4b8-d85aaa4e273c" />
