@@ -28,6 +28,11 @@ Enter the bootloader in 3 ways:
 
 Picture of product (render):
 <img width="222" height="162" alt="Screenshot 2026-05-06 at 1 51 36 PM" src="https://github.com/user-attachments/assets/5cecb20d-e52e-438e-a03a-34fd9b796080" />
+Routing/Schematic:
+<img width="430" height="310" alt="Screenshot 2026-05-11 at 4 02 58 PM" src="https://github.com/user-attachments/assets/43b1855f-e23f-44e8-aaf6-37a005b5b44e" />
+<img width="667" height="757" alt="Screenshot 2026-05-11 at 4 03 14 PM" src="https://github.com/user-attachments/assets/4948371a-db3f-4bf5-be8b-55577c9bb17a" />
+PCB:
+<img width="415" height="412" alt="Screenshot 2026-05-11 at 4 03 38 PM" src="https://github.com/user-attachments/assets/77530984-325a-4ef8-960b-45d682669b84" />
 BOM:
 [4 x 1 Macro Pad-bom.csv](https://github.com/user-attachments/files/27613858/4.x.1.Macro.Pad-bom.csv)
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
