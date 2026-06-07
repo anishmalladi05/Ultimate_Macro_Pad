@@ -33,6 +33,7 @@ Routing/Schematic:
 <img width="667" height="757" alt="Screenshot 2026-05-11 at 4 03 14 PM" src="https://github.com/user-attachments/assets/4948371a-db3f-4bf5-be8b-55577c9bb17a" />
 PCB:
 <img width="415" height="412" alt="Screenshot 2026-05-11 at 4 03 38 PM" src="https://github.com/user-attachments/assets/77530984-325a-4ef8-960b-45d682669b84" />
+
 BOM:
 [BILLOFMATERIALS.md](https://github.com/user-attachments/files/28686605/BILLOFMATERIALS.md)
 |Name                    |Purpose                                                                                               |Quantity|Total Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |Distributor|
