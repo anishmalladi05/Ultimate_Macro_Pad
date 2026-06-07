@@ -2,7 +2,7 @@
 
 ![macropad_xiao](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+4 x 1 Macro Pad with MX Red Cherry Switches. It will have a rotary encoder and a metal body. I made this project with QMK firmware and I made it because I frequently switch between my laptop and my laptop plugged into my monitor, where I use a separate keyboard without all of my Mac's shortcuts and stuff, so I wanted a separate, fully customizable solution. I have made it for CNC, but I would like to have a customizable color, and I have a 3D printer, so I think it would be better to 3D print the case for me.
 
 * Keyboard Maintainer: [anishmalladi05](https://github.com/anishmalladi05)
 * Hardware Supported: *The PCBs, controllers supported*
@@ -28,9 +28,11 @@ Enter the bootloader in 3 ways:
 
 Picture of product (render):
 <img width="222" height="162" alt="Screenshot 2026-05-06 at 1 51 36 PM" src="https://github.com/user-attachments/assets/5cecb20d-e52e-438e-a03a-34fd9b796080" />
+
 Routing/Schematic:
 <img width="430" height="310" alt="Screenshot 2026-05-11 at 4 02 58 PM" src="https://github.com/user-attachments/assets/43b1855f-e23f-44e8-aaf6-37a005b5b44e" />
 <img width="667" height="757" alt="Screenshot 2026-05-11 at 4 03 14 PM" src="https://github.com/user-attachments/assets/4948371a-db3f-4bf5-be8b-55577c9bb17a" />
+
 PCB:
 <img width="415" height="412" alt="Screenshot 2026-05-11 at 4 03 38 PM" src="https://github.com/user-attachments/assets/77530984-325a-4ef8-960b-45d682669b84" />
 
