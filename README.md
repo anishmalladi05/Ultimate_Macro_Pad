@@ -19,10 +19,14 @@ Enter the bootloader in 3 ways:
 
 Picture of product (render):
 <img width="772" height="609" alt="Screenshot 2026-07-21 at 10 35 07 AM" src="https://github.com/user-attachments/assets/d07890fd-b496-4d01-a7c0-d70b537a5a23" />
+<br></br>
+<img width="3024" height="4032" alt="IMG_3563" src="https://github.com/user-attachments/assets/30aaed41-3164-4102-a66c-09e4a1a2319f" />
+
 
 
 Routing/Schematic:
 <img width="616" height="336" alt="Screenshot 2026-07-21 at 10 33 14 AM" src="https://github.com/user-attachments/assets/ce8d45ee-6165-46de-839e-254e78513400" />
+<br></br>
 <img width="446" height="719" alt="Screenshot 2026-07-21 at 10 34 58 AM" src="https://github.com/user-attachments/assets/b8750e4e-224d-4a0d-9501-a9fc8f7eef2e" />
 
 
