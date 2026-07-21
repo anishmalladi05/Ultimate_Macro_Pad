@@ -18,14 +18,17 @@ Enter the bootloader in 3 ways:
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
 
 Picture of product (render):
-<img width="222" height="162" alt="Screenshot 2026-05-06 at 1 51 36 PM" src="https://github.com/user-attachments/assets/5cecb20d-e52e-438e-a03a-34fd9b796080" />
+<img width="772" height="609" alt="Screenshot 2026-07-21 at 10 35 07 AM" src="https://github.com/user-attachments/assets/d07890fd-b496-4d01-a7c0-d70b537a5a23" />
+
 
 Routing/Schematic:
-<img width="430" height="310" alt="Screenshot 2026-05-11 at 4 02 58 PM" src="https://github.com/user-attachments/assets/43b1855f-e23f-44e8-aaf6-37a005b5b44e" />
-<img width="667" height="757" alt="Screenshot 2026-05-11 at 4 03 14 PM" src="https://github.com/user-attachments/assets/4948371a-db3f-4bf5-be8b-55577c9bb17a" />
+<img width="616" height="336" alt="Screenshot 2026-07-21 at 10 33 14 AM" src="https://github.com/user-attachments/assets/ce8d45ee-6165-46de-839e-254e78513400" />
+<img width="446" height="719" alt="Screenshot 2026-07-21 at 10 34 58 AM" src="https://github.com/user-attachments/assets/b8750e4e-224d-4a0d-9501-a9fc8f7eef2e" />
+
 
 PCB:
-<img width="415" height="412" alt="Screenshot 2026-05-11 at 4 03 38 PM" src="https://github.com/user-attachments/assets/77530984-325a-4ef8-960b-45d682669b84" />
+<img width="480" height="425" alt="Screenshot 2026-07-21 at 10 34 54 AM" src="https://github.com/user-attachments/assets/641d990c-ca42-4bf4-85e4-e5d110c7464d" />
+
 
 BOM:
 [BILLOFMATERIALS.md](https://github.com/user-attachments/files/28686605/BILLOFMATERIALS.md)
