@@ -18,6 +18,7 @@ Enter the bootloader in 3 ways:
 * Drag the UF2 file into the  microcontroller that you should see appear as a disk after bootloader mode
 
 Picture of product (render):
+<br></br>
 <img width="772" height="609" alt="Screenshot 2026-07-21 at 10 35 07 AM" src="https://github.com/user-attachments/assets/d07890fd-b496-4d01-a7c0-d70b537a5a23" />
 <br></br>
 <img width="3024" height="4032" alt="IMG_3563" src="https://github.com/user-attachments/assets/30aaed41-3164-4102-a66c-09e4a1a2319f" />
@@ -25,16 +26,19 @@ Picture of product (render):
 
 
 Routing/Schematic:
+<br></br>
 <img width="616" height="336" alt="Screenshot 2026-07-21 at 10 33 14 AM" src="https://github.com/user-attachments/assets/ce8d45ee-6165-46de-839e-254e78513400" />
 <br></br>
 <img width="446" height="719" alt="Screenshot 2026-07-21 at 10 34 58 AM" src="https://github.com/user-attachments/assets/b8750e4e-224d-4a0d-9501-a9fc8f7eef2e" />
 
 
 PCB:
+<br></br>
 <img width="480" height="425" alt="Screenshot 2026-07-21 at 10 34 54 AM" src="https://github.com/user-attachments/assets/641d990c-ca42-4bf4-85e4-e5d110c7464d" />
 
 
 BOM:
+<br></br>
 [BILLOFMATERIALS.md](https://github.com/user-attachments/files/28686605/BILLOFMATERIALS.md)
 |Name                    |Purpose                                                                                               |Quantity|Total Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |Distributor|
 |------------------------|------------------------------------------------------------------------------------------------------|--------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
