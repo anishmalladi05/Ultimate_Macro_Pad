@@ -1,7 +1,5 @@
 # macropad_xiao
 
-![macropad_xiao](imgur.com image replace me!)
-
 4 x 1 Macro Pad with MX Red Cherry Switches. It will have a metal body. I made this project with QMK firmware and I made it because I frequently switch between my laptop and my laptop plugged into my monitor, where I use a separate keyboard without all of my Mac's shortcuts and stuff, so I wanted a separate, fully customizable solution. I have made it for CNC, but I would like to have a customizable color, and I have a 3D printer, so I think it would be better to 3D print the case for me.
 
 * Keyboard Maintainer: [anishmalladi05](https://github.com/anishmalladi05)
@@ -16,6 +14,8 @@ Enter the bootloader in 3 ways:
 
 * **Physical reset button**: Hold the B button, and while holding, double press the R button, and then release
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+* Drag the UF2 file into the  microcontroller that you should see appear as a disk after bootloader mode
 
 Picture of product (render):
 <img width="772" height="609" alt="Screenshot 2026-07-21 at 10 35 07 AM" src="https://github.com/user-attachments/assets/d07890fd-b496-4d01-a7c0-d70b537a5a23" />
